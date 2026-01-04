@@ -1,18 +1,25 @@
-# 👋 Hey there, I’m Reece  
+# 👋 Hey there, I'm Reece
 
-🚀 Biomechanical Engineering Graduate Student
+I'm a **Biomechanical Engineering Graduate Student** with a passion for exploring how technology can enhance human performance and health. My research interests lie at the intersection of **neurology, mechanics, and wearable devices** — areas where engineering meets human biology to create meaningful impact.
 
-I’m fascinated by the intersection of **Neurology, mechanics, and wearable devices**
+## 🔬 What I'm Working On
 
----
+I'm currently focused on biomechanical systems and exploring innovative approaches to wearable technology. I enjoy tackling complex problems that require both analytical thinking and creative engineering solutions.
 
-## Skills
-- **Languages:** Python, MATLAB, R* 
-- **Engineering:** SolidWorks, Fusion360, ANSYS, OnShape, Inventor
-- **Other:** Git, LaTeX
+## 🛠️ Technical Skills
 
----
+**Programming & Analysis**
+- Python, MATLAB, R
 
-## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/reelawre/)  
-- [Email](mailto:rlawrence2@ufl.edu)  
+**CAD & Engineering Tools**
+- SolidWorks, Fusion360, ANSYS, OnShape, Inventor
+
+**Development Tools**
+- Git, LaTeX
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with others passionate about biomechanics, medical devices, and engineering innovation.
+
+- [LinkedIn](https://www.linkedin.com/in/reelawre/)
+- [Email](mailto:rlawrence2@ufl.edu)
