@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Reece
 
-I'm a **Biomechanical Engineering Graduate Student** with a passion for exploring how technology can enhance human performance and health. My research interests lie at the intersection of **neurology, mechanics, and wearable devices** — areas where engineering meets human biology to create meaningful impact.
+I'm a **Mechanical Engineering Graduate Student** with a passion for exploring how technology can enhance human performance and health. My research interests lie at the intersection of **neurology, mechanics, and wearable devices** — areas where engineering meets human biology to create meaningful impact.
 
 ## 🔬 What I'm Working On
 
