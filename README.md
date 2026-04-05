@@ -1,8 +1,16 @@
-# Hey there, I'm Reece
+# Reece Lawrence
 
-I'm a **Mechanical Engineering Graduate Student** with a passion for exploring how technology can enhance human performance and health. My research interests lie at the intersection of **neurology, mechanics, and wearable devices** — areas where engineering meets human biology to create meaningful impact.
+**Mechanical Engineering Graduate Student** at the University of Florida
 
-## 📫 Let's Connect
+My research sits at the intersection of neurology, biomechanics, and wearable technology — building devices that bridge the gap between engineering and human health.
+
+## Interests
+
+- Wearable sensing and human performance monitoring
+- Neural and musculoskeletal mechanics
+- Medical device design and rehabilitation engineering
+
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/reelawre/)
 - [Email](mailto:rlawrence2@ufl.edu)
