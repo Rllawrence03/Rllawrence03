@@ -1,7 +1,7 @@
 <h1 align="center">Reece Lawrence</h1>
 
 <p align="center">
-  <b>Mechanical Engineering Graduate Student</b> &nbsp;|&nbsp; University of Florida
+  <b>PhD Student, Mechanical Engineering</b> &nbsp;|&nbsp; University of Florida &nbsp;|&nbsp; Gainesville, FL
 </p>
 
 <p align="center">
@@ -18,7 +18,18 @@
 
 ## About Me
 
-I'm a graduate researcher working at the intersection of **neurology**, **biomechanics**, and **wearable technology**. My work focuses on designing and building devices that sense and interpret human movement and physiology — bridging the gap between mechanical engineering and human health.
+I'm a PhD student in Mechanical Engineering at the University of Florida, researching at the intersection of **biomechanics**, **wearable sensing**, and **human movement science**. My work spans motion capture analysis, IMU-based sensor systems, and motor control — with applications in rehabilitation, human performance, and clinical gait assessment.
+
+Previously, I completed my BS in Mechanical Engineering (with Honors) at Texas Tech University, where I worked as an NSF REU Scholar on kinematic modeling of piano playing and wearable sensor protocols. I also interned at the **Air Force Research Laboratory** (ORISE Repperger Intern) investigating wearable sensors for human performance monitoring.
+
+---
+
+## Education
+
+| Degree | Institution | Year |
+|---|---|---|
+| PhD, Mechanical Engineering | University of Florida | Expected May 2029 |
+| BS, Mechanical Engineering (Honors) | Texas Tech University | May 2025 — GPA: 3.788 |
 
 ---
 
@@ -26,10 +37,51 @@ I'm a graduate researcher working at the intersection of **neurology**, **biomec
 
 | Area | Focus |
 |---|---|
-| 🧠 Neurology & Sensing | Neural signal acquisition and interpretation for human-machine interfaces |
-| ⚙️ Biomechanics | Musculoskeletal modeling and motion analysis |
-| 📡 Wearable Devices | Low-profile, body-worn sensors for real-time performance monitoring |
-| 🏥 Rehabilitation Engineering | Assistive and therapeutic device design |
+| Biomechanics | Musculoskeletal modeling, motor module analysis, gait & balance |
+| Wearable Sensing | IMU-based systems for human performance and clinical monitoring |
+| Motor Control | Inter-joint coordination, kinematic analysis, motion capture |
+| Rehabilitation Engineering | Assistive device design, balance perturbation response |
+
+---
+
+## Selected Publications & Presentations
+
+**Journal Papers**
+- Lawrence, R., Baus, J., Cash, C., & Yang, J. *Motion Capture-Based Assessment of Inter-Joint Coordination in Piano Playing.* Journal of New Music Research (**Under Review**)
+
+**Conference Papers**
+- Lawrence, R. et al. (2024). *Upper Body Kinematic Analysis in Piano Playing Tasks.* ASME IDETC/CIE 2024, Washington, D.C.
+- R. Lawrence, T. E. Parr, et al. *Novel Algorithm for Detecting Inverted Row Repetitions Using a Chest-Mounted IMU Sensor.* WCB 2026, Vancouver. (**Submitted**)
+- R. Lawrence, G. Maddox, et al. *Motor Module Generalization Across Walking and Standing Perturbations Associated with Walking Balance Performance in Older Adults.* WCB 2026. (**Submitted**)
+- G. Maddox, R. Lawrence, et al. *Muscle Coordination Is More Complex In Older Adults When Walking In Real-World Conditions.* WCB 2026. (**Submitted**)
+
+**Posters**
+- Cash, C. D., Lawrence, R., et al. (2025). *Sights and sounds: What does piano technique communicate?* NCKP 2025, Lombard, IL.
+- Lawrence, R. (2025). *Sensor-Based Smart Rep Counting for Inverted Rows.* AFRL Summer Poster Session, Wright-Patterson AFB.
+
+---
+
+## Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| PhD Research Assistant | University of Florida | 2025–Present |
+| Repperger Research Intern (ORISE) | Air Force Research Laboratory | May–Aug 2025 |
+| Research & Manufacturing Engineer | Delta Robotics Inc. | Jun 2024–Jun 2025 |
+| NSF REU Scholar – Research Assistant | Texas Tech University | Jan 2022–May 2025 |
+| Undergraduate Teaching Assistant | Texas Tech University (Engineering Ethics) | Aug 2022–May 2024 |
+
+---
+
+## Awards & Honors
+
+- NIH First Step in Biomechanics Award — *August 2025*
+- UF Kirkland Fellowship — *Summer 2025*
+- UF HWCOE Dean's Research Award — *AY 2025–2026*
+- TTU Presidential Merit Scholar — *AY 2021–2025*
+- TTU Honors College Undergraduate Research Scholar — *AY 2023–2024*
+- TTU President's List — *Fall 2021, Spring 2022, Fall 2024*
+- TTU Dean's List — *Spring 2023, Spring 2024*
 
 ---
 
