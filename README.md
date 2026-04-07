@@ -51,9 +51,8 @@ Previously, I completed my BS in Mechanical Engineering (with Honors) at Texas T
 
 **Conference Papers**
 - Lawrence, R. et al. (2024). *Upper Body Kinematic Analysis in Piano Playing Tasks.* ASME IDETC/CIE 2024, Washington, D.C.
-- R. Lawrence, T. E. Parr, et al. *Novel Algorithm for Detecting Inverted Row Repetitions Using a Chest-Mounted IMU Sensor.* WCB 2026, Vancouver. (**Submitted**)
-- R. Lawrence, G. Maddox, et al. *Motor Module Generalization Across Walking and Standing Perturbations Associated with Walking Balance Performance in Older Adults.* WCB 2026. (**Submitted**)
-- G. Maddox, R. Lawrence, et al. *Muscle Coordination Is More Complex In Older Adults When Walking In Real-World Conditions.* WCB 2026. (**Submitted**)
+- R. Lawrence, G. Maddox, et al. *Motor Module Generalization Across Walking and Standing Perturbations Associated with Walking Balance Performance in Older Adults.* WCB 2026. (**To Be Presented**)
+- G. Maddox, R. Lawrence, et al. *Muscle Coordination Is More Complex In Older Adults When Walking In Real-World Conditions.* WCB 2026. (**To Be Presented**)
 
 **Posters**
 - Cash, C. D., Lawrence, R., et al. (2025). *Sights and sounds: What does piano technique communicate?* NCKP 2025, Lombard, IL.
