@@ -101,5 +101,3 @@ Previously, I completed my BS in Mechanical Engineering (with Honors) at Texas T
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rllawrence03&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rllawrence03&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
